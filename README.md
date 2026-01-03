@@ -29,6 +29,8 @@ This tutorial outlines the post-installation configuration of the open-source he
 <p align="center">
  <br/></b>
  I logged in as the admin, Configured roles to create a new <b>supreme admin role</b>, and applied all permissions.  Configured teams to be able to pull specefic teams to perform specefic tasks. Created different levels of support, such as, level 1 and level 2.
+<br/>
+
  <img src="https://github.com/Lasheawil/osTicket-Postinstall-Config/blob/main/osTicket%20Postinstall/permissions.png" height="80%" width="80%"/>
  <br/>
  Configured departments and created a systems administration department.
