@@ -53,3 +53,8 @@ I configured and created users karen and Ken; these individuals (workers) will c
  As admin, I Configured SLA (Service Level Agreement). This gives a timeframe to complete tasks. Create 3 SLA's, Sev-A (1 hour, 24/7), Sev-B (8 hours, 24/7), and Sev-C (8 hours, business hours)
  <img src="https://github.com/Lasheawil/osTicket-Postinstall-Config/blob/main/osTicket%20Postinstall/SLA.png" height="80%" width="80%"/>
  <br/>
+
+ <p align="center">
+ As admin, I Configured <b>help topics</b>; this allows the end users choose what they require help with. Created 'Business Critical Outage', 'Personal Computer Issues', 'Equipment Request', 'Password Reset'
+ <img src="https://github.com/Lasheawil/osTicket-Postinstall-Config/blob/main/osTicket%20Postinstall/Help%20Topics.png" height="80%" width="80%"/>
+ <br/>
